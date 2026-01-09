@@ -4,7 +4,7 @@ CUGB-M²Rock is the first large-scale, multi-source benchmark for Martian rock s
 ## 🧰 Data Preparation
 
 ### 🪨 A. CUGB-M²Rock  
-1. Download the dataset from `https://pan.baidu.com/s/1pDYHpmzHCJoakvBEfWX6xw?pwd=wi7v` (access code: `wi7v`).
+1. Download the dataset from `https://pan.baidu.com/s/1qHHYl3sZF42LMVnisO9chg?pwd=fsxh` (access code: `fsxh`).
 
 ### 🛰️ B. SynMars  
 1. Download the dataset from `https://github.com/CVIR-Lab/SynMars`.
