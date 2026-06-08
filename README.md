@@ -8,17 +8,28 @@ CUGB-M²Rock is a large-scale, multi-source benchmark for Martian rock segmentat
 
 ## Authors & Affiliations
 
-**Shiyang Fu**<sup>1,2</sup> · **Xiaoman Qi**<sup>1,2</sup> · **Yuebin Wang**<sup>1,2</sup>\* · **Zhizhong Kang**<sup>1,2</sup>\* · **Liqiang Zhang**<sup>3</sup> · **Huan Xie**<sup>4,5</sup>
+<p align="center">
+  <a href="https://www.researchgate.net/profile/Shiyang-Fu"><strong>Shiyang Fu</strong></a><sup>1,2</sup> ·
+  <a href="https://www.researchgate.net/profile/Xiaoman-Qi-2"><strong>Xiaoman Qi</strong></a><sup>1,2</sup> ·
+  <a href="https://www.researchgate.net/profile/Wang-Yuebin"><strong>Yuebin Wang</strong></a><sup>1,2</sup>* ·
+  <a href="https://www.researchgate.net/profile/Zhizhong-Kang"><strong>Zhizhong Kang</strong></a><sup>1,2</sup>* ·
+  <a href="https://www.researchgate.net/profile/Liqiang-Zhang-2"><strong>Liqiang Zhang</strong></a><sup>3</sup> ·
+  <a href="https://orcid.org/0000-0003-3272-7848"><strong>Huan Xie</strong></a><sup>4,5</sup>
+</p>
 
-| | Affiliation |
-|:---|:---|
-| <sup>1</sup> | School of Land Science and Technology, China University of Geosciences (Beijing), Beijing 100083, China |
-| <sup>2</sup> | Subcenter of International Cooperation and Research on Lunar and Planetary Exploration, Center of Space Exploration, Ministry of Education of The People's Republic of China, Beijing 100083, China |
-| <sup>3</sup> | Key Laboratory of Environmental Remote Sensing and Digital Cities, Faculty of Geographical Science, Beijing Normal University, Beijing 100875, China |
-| <sup>4</sup> | Shanghai Research Institute for Intelligent Autonomous Systems and College of Surveying and Geo-informatics, Tongji University, Shanghai 200092, China |
-| <sup>5</sup> | Shanghai Key Laboratory for Planetary Mapping and Remote Sensing for Deep Space Exploration, Tongji University, Shanghai 200092, China |
+<p align="center">
+  <sup>1</sup> School of Land Science and Technology, China University of Geosciences (Beijing), Beijing 100083, China<br>
+  <sup>2</sup> Subcenter of International Cooperation and Research on Lunar and Planetary Exploration, Center of Space Exploration, Ministry of Education of The People's Republic of China, Beijing 100083, China<br>
+  <sup>3</sup> Key Laboratory of Environmental Remote Sensing and Digital Cities, Faculty of Geographical Science, Beijing Normal University, Beijing 100875, China<br>
+  <sup>4</sup> Shanghai Research Institute for Intelligent Autonomous Systems and College of Surveying and Geo-informatics, Tongji University, Shanghai 200092, China<br>
+  <sup>5</sup> Shanghai Key Laboratory for Planetary Mapping and Remote Sensing for Deep Space Exploration, Tongji University, Shanghai 200092, China
+</p>
 
-\*Corresponding authors: [Yuebin Wang](mailto:wangyuebin@cugb.edu.cn) · [Zhizhong Kang](mailto:zzkang@cugb.edu.cn)
+<p align="center">
+  *Corresponding authors:
+  <a href="mailto:wangyuebin@cugb.edu.cn">Yuebin Wang</a> ·
+  <a href="mailto:zzkang@cugb.edu.cn">Zhizhong Kang</a>
+</p>
 
 ---
 
