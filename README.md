@@ -1,6 +1,4 @@
-# CUGB-M²Rock
-
-**A Large-Scale Martian Rock Dataset and a Spatial-Frequency Dual-Domain Mamba for Martian Rock Segmentation**
+# **A Large-Scale Martian Rock Dataset and a Spatial-Frequency Dual-Domain Mamba for Martian Rock Segmentation**
 
 > ⚠️ **Under peer review.** This manuscript has not yet been published. For citation guidance or updates, please contact the corresponding authors.
 
