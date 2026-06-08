@@ -1,8 +1,8 @@
 # **A Large-Scale Martian Rock Dataset and a Spatial-Frequency Dual-Domain Mamba for Martian Rock Segmentation**
 
-> ⚠️ **Under peer review.** This manuscript has not yet been published. For citation guidance or updates, please contact the corresponding authors.
+> ⚠️ **Under peer review.** This manuscript has not yet been published.
 
-CUGB-M²Rock is the first large-scale, multi-source benchmark for Martian rock segmentation from images captured by Mars landers and rovers, with **600k+** annotated instances. **UBNet** achieves leading accuracy with extremely low complexity.
+CUGB-M²Rock is a large-scale, multi-source benchmark for Martian rock segmentation from images captured by Mars landers and rovers, with **600k+** annotated instances. **UBNet** achieves leading accuracy with extremely low complexity.
 
 ---
 
